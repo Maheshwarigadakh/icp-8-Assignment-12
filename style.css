@@ -14,6 +14,6 @@ background-color: rgb(12, 246, 246);
 }
 .a-deco {
     font-size: 30px;
-    text-decoration: none;
-
+    text-decoration: line;
+    color: rgb(197, 20, 20);
 }

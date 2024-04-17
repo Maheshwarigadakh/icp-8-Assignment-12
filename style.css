@@ -1,3 +1,19 @@
+
+*{
+background-color: rgb(12, 246, 246);
+}
 .col-red {
-    color:red;
+    color:rgb(234, 25, 25);
+    font-size: 25px;
+}
+.col-yellow{
+    color: rgb(91, 91, 6);
+}
+.para-color {
+    color: rgb(250, 5, 46);
+}
+.a-deco {
+    font-size: 30px;
+    text-decoration: none;
+
 }
